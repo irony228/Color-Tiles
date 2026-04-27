@@ -10,8 +10,11 @@
 - Минимальная версия Android: API 21 (Android 5.0)
 
 ## Скриншоты
-![Gameplay](./images/colortiles.gif)
-![Screenshot_1](./images/img1.png)
-![Screenshot_2](./images/img2.png)
+<div>
+  <img src="images/colortiles.gif" width="33%">
+  <img src="images/img1.png" width="33%">
+  <img src="images/img2.png" width="33%">
+</div>
+
 
 
