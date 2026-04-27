@@ -11,9 +11,9 @@
 
 ## Скриншоты
 <div>
-  <img src="images/colortiles.gif" width="33%">
-  <img src="images/img1.png" width="33%">
-  <img src="images/img2.png" width="33%">
+  <img src="images/colortiles.gif" width="30%">
+  <img src="images/img1.png" width="30%">
+  <img src="images/img2.png" width="30%">
 </div>
 
 
