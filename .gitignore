@@ -16,3 +16,4 @@ local.properties
 ic_*.*
 test
 androidTest
+/app/proguard-rules.pro
